@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc5b29e5201af647aac70cb79207ae9, type: 3}
+  m_Name: New Font Links
+  m_EditorClassIdentifier: 
+  _fonts:
+  - Name: SF-Pro_Display-Black
+    Font: {fileID: 11400000, guid: 143b42a1133ce4c4b8e262095f8ab56a, type: 2}
+  - Name: SF-Pro_Display-BlackItalic
+    Font: {fileID: 11400000, guid: 688ed97e5a32d45ce893a0acfe2875fc, type: 2}
+  - Name: SF-Pro_Display-Bold
+    Font: {fileID: 11400000, guid: 421a9742e0c0a43919370cde84b17ac6, type: 2}
+  - Name: SF-Pro_Display-BoldItalic
+    Font: {fileID: 11400000, guid: e2b63f7563fc24af091aa7df9d20d686, type: 2}
+  - Name: SF-Pro_Display-Heavy
+    Font: {fileID: 11400000, guid: 5be4d14527f05464c8c91e48225435e0, type: 2}
+  - Name: SF-Pro_Display-HeavyItalic
+    Font: {fileID: 11400000, guid: 0057c46a7a4c04387b85d421b1c1d869, type: 2}
+  - Name: SF-Pro_Display-Light
+    Font: {fileID: 11400000, guid: fe5ae2a171a6d4045932dff50c39ddc8, type: 2}
+  - Name: SF-Pro_Display-LightItalic
+    Font: {fileID: 11400000, guid: fa253b3d2f357432392beaddcc4712bf, type: 2}
+  - Name: SF-Pro_Display-Medium
+    Font: {fileID: 11400000, guid: c631c9b2468dc424ebba31e644717441, type: 2}
+  - Name: SF-Pro_Display-MediumItalic
+    Font: {fileID: 11400000, guid: ac0c5e7c71133498882e3ec04f7c8013, type: 2}
+  - Name: SF-Pro_Display-Regular
+    Font: {fileID: 11400000, guid: d53fee24fcdf847369d04da8edda491d, type: 2}
+  - Name: SF-Pro_Display-RegularItallic
+    Font: {fileID: 11400000, guid: 4e20bb759bcb349929d881799dcdb86e, type: 2}
+  - Name: SF-Pro_Display-Semibold
+    Font: {fileID: 11400000, guid: bbb4dc52475d148c286cb4ded30b4479, type: 2}
+  - Name: SF-Pro_Display-SemiboldItalic
+    Font: {fileID: 11400000, guid: 81e1e32263d9b47c0b46d559498da066, type: 2}
+  - Name: SF-Pro_Display-Thin
+    Font: {fileID: 11400000, guid: 3d645d16fe4304291a000fae49f6dc1d, type: 2}
+  - Name: SF-Pro_Display-ThinItalic
+    Font: {fileID: 11400000, guid: 921561f5dc4e74a57957628bf09417c9, type: 2}
+  - Name: SF-Pro_Display-Ultralight
+    Font: {fileID: 11400000, guid: 5b34e7a38cf2f4331a32ca53bd7878ce, type: 2}
+  - Name: SF-Pro_Display-UltralightItalic
+    Font: {fileID: 11400000, guid: fcb2bedea8c2a4abea490f6dd327c478, type: 2}
+  - Name: LocalBreweryFour
+    Font: {fileID: 11400000, guid: 26e007b72b3634a30aee0275adcef6f1, type: 2}
