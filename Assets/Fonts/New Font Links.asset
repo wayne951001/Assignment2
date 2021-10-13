@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efc5b29e5201af647aac70cb79207ae9, type: 3}
   m_Name: New Font Links
   m_EditorClassIdentifier: 
-  _fonts: []
+  _fonts:
+  - Name: SFPProDisplay-Black
+    Font: {fileID: 11400000, guid: 4913156eff19f4ad187be760a8af0a16, type: 2}
+  - Name: SFPProDisplay-Semibold
+    Font: {fileID: 11400000, guid: 6636cc4d89c3f42ed943c2589b2b5ea2, type: 2}
