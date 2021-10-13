@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec42b192aa09e44359888a538df2368a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LocalBreweryFour-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ae4e369f21a04ba1a6d20ed45059f87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
