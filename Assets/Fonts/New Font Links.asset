@@ -17,3 +17,17 @@ MonoBehaviour:
     Font: {fileID: 11400000, guid: 4913156eff19f4ad187be760a8af0a16, type: 2}
   - Name: SFPProDisplay-Semibold
     Font: {fileID: 11400000, guid: 6636cc4d89c3f42ed943c2589b2b5ea2, type: 2}
+  - Name: SFProDisplay-Semibold
+    Font: {fileID: 0}
+  - Name: SFProDisplay-Semibold
+    Font: {fileID: 0}
+  - Name: SFProDisplay-Semibold
+    Font: {fileID: 0}
+  - Name: SFProDisplay-Light
+    Font: {fileID: 0}
+  - Name: SFProDisplay-Semibold
+    Font: {fileID: 0}
+  - Name: LocalBreweryFour-Regular
+    Font: {fileID: 11400000, guid: ff98d161f435244abbb8fd7522fdc7f9, type: 2}
+  - Name: LocalBreweryFour-Regular
+    Font: {fileID: 11400000, guid: ff98d161f435244abbb8fd7522fdc7f9, type: 2}
